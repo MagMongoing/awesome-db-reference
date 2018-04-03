@@ -4,6 +4,7 @@
     [Brendan D. Gregg linux 内核，系统优化](http://www.brendangregg.com/index.html)
 
     [Brendan D. Gregg Github](http://www.brendangregg.com/index.html)
+
 ## MySQL
 - innodb
 
@@ -33,3 +34,7 @@
     [key使用情况查看rdr(支持4.0)](https://github.com/GanymedeNil/rdr)
 
     [rdb文件解析](https://github.com/GanymedeNil/rdb)
+
+## 翻译词汇参考
+[onlineslangdictionary](http://onlineslangdictionary.com/thesaurus/words+meaning+computer+slang.html)
+
