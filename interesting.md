@@ -5,6 +5,9 @@
 
     [Brendan D. Gregg Github](http://www.brendangregg.com/index.html)
 ## MySQL
+- innodb
+
+    [InnoDB internals, structures, and behavior](https://blog.jcole.us/innodb/)
 - my.cnf
 
     [PERCONA CONFIGURATION WIZARD FOR MYSQL](https://tools.percona.com/wizard)
