@@ -28,6 +28,7 @@
    [关于分布式事务、两阶段提交协议、三阶提交协议](http://www.hollischuang.com/archives/681)
 
    [深入理解分布式系统的2PC和3PC](http://www.hollischuang.com/archives/1580)
+
    [分布式系统理论基础 - 一致性、2PC和3PC](https://www.cnblogs.com/bangerlee/p/5268485.html)
 
 ## mongodb
