@@ -23,7 +23,11 @@
 
     [Yearning](https://github.com/cookieY/Yearning)
 
+## 分布式系统
 
+   [关于分布式事务、两阶段提交协议、三阶提交协议](http://www.hollischuang.com/archives/681)
+
+   [深入理解分布式系统的2PC和3PC](http://www.hollischuang.com/archives/1580)
 
 ## mongodb
 
