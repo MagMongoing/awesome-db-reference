@@ -49,6 +49,16 @@
 
    [Good Code vs Bad Code in Golang](https://teivah.io)
 
+## other
+
+   [https://www.paste.org](https://www.paste.org)
+
+## tutorial
+
+   [Guru99](https://www.guru99.com)
+
+   [https://hackr.io](https://hackr.io/)
+
 ## 翻译词汇参考
 [onlineslangdictionary](http://onlineslangdictionary.com/thesaurus/words+meaning+computer+slang.html)
 
