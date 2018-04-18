@@ -41,8 +41,11 @@
 
     [rdb文件解析](https://github.com/GanymedeNil/rdb)
 
+- redis私有云管理平台
+    [sohutv](https://github.com/sohutv)
+
 ## go
- 
+
    [Good Code vs Bad Code in Golang](https://teivah.io)
 
 ## 翻译词汇参考
