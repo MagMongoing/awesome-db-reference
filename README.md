@@ -51,6 +51,8 @@
 
 ## other
 
+- code share
+
    [https://www.paste.org](https://www.paste.org)
 
 ## tutorial
