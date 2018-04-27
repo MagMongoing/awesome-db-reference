@@ -31,6 +31,8 @@
 
    [分布式系统理论基础 - 一致性、2PC和3PC](https://www.cnblogs.com/bangerlee/p/5268485.html)
 
+   [郁白，Oceanbase列传](http://oceanbase.org.cn/)
+
 ## mongodb
 
 
