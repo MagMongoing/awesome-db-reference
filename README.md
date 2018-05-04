@@ -15,6 +15,7 @@
 - blog
 
     [数据库内核月报](http://mysql.taobao.org/monthly/)
+    [CENALULU'S TECH BLOG](http://cenalulu.github.io/)
 - MySQL上线审核
 
     [Inception](https://github.com/mysql-inception/inception)
