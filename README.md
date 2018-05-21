@@ -12,6 +12,7 @@
 - my.cnf
 
     [PERCONA CONFIGURATION WIZARD FOR MYSQL](https://tools.percona.com/wizard)
+    [性能测试](www.sqlpy.com)
 - blog
 
     [数据库内核月报](http://mysql.taobao.org/monthly/)
