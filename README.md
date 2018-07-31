@@ -25,6 +25,10 @@
 
     [Yearning](https://github.com/cookieY/Yearning)
 
+- MySQL Tools
+
+    [4 Useful Commandline Tools to Monitor MySQL Performance in Linux](https://www.tecmint.com/mysql-performance-monitoring/)
+
 ## 分布式系统
 
    [关于分布式事务、两阶段提交协议、三阶提交协议](http://www.hollischuang.com/archives/681)
