@@ -16,9 +16,13 @@
 - blog
 
     [数据库内核月报](http://mysql.taobao.org/monthly/)
+
     [CENALULU'S TECH BLOG](http://cenalulu.github.io/)
+    
     [Netflix tech blog](https://medium.com/netflix-techblog)
+    
     [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html)(SRE)
+    
     [SRECON](https://www.usenix.org/) Video and audio recordings of the talks and presentation slides1
 - MySQL上线审核
 
