@@ -76,6 +76,10 @@
 
    [https://hackr.io](https://hackr.io/)
 
+## EBOOK
+
+[CODERPROG](https://coderprog.com/)
+
 ## 翻译词汇参考
 [onlineslangdictionary](http://onlineslangdictionary.com/thesaurus/words+meaning+computer+slang.html)
 
