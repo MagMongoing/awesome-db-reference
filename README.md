@@ -80,6 +80,10 @@
 
 [CODERPROG](https://coderprog.com/)
 
+## blog文章写作参考
+
+[RabbitMQ 使用参考](https://www.zouyesheng.com/rabbitmq.html)
+
 ## 翻译词汇参考
 [onlineslangdictionary](http://onlineslangdictionary.com/thesaurus/words+meaning+computer+slang.html)
 
