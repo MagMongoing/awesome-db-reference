@@ -24,6 +24,9 @@
     [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html)(SRE)
     
     [SRECON](https://www.usenix.org/) Video and audio recordings of the talks and presentation slides1
+
+    [阅读榜样](http://xargin.com/readings/)
+
 - MySQL上线审核
 
     [Inception](https://github.com/mysql-inception/inception)
