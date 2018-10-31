@@ -67,6 +67,10 @@
 
    [Good Code vs Bad Code in Golang](https://teivah.io)
 
+## python
+
+   [python tips](http://book.pythontips.com)
+
 ## other
 
 - code share
