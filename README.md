@@ -27,6 +27,8 @@
 
     [阅读榜样](http://xargin.com/readings/)
 
+    [别做口头上的学习者](https://kenengba.com/post/3569.html)
+
 - MySQL上线审核
 
     [Inception](https://github.com/mysql-inception/inception)
