@@ -96,3 +96,5 @@
 ## 翻译词汇参考
 [onlineslangdictionary](http://onlineslangdictionary.com/thesaurus/words+meaning+computer+slang.html)
 
+[https://www.dictionary.com](https://www.dictionary.com/browse/from--time--to--time?s=t)
+
