@@ -89,7 +89,7 @@
 
 [CODERPROG](https://coderprog.com/)
 
-[http://mebook.cc/](http://mebook.cc/)
+[http://mebook.cc/](http://mebook.cc/) [备用](shuwu.mobi)
 
 ## blog文章写作参考
 
