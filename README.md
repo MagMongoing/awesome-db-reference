@@ -93,6 +93,10 @@
 
 [https://salttiger.com/](https://salttiger.com/)
 
+## Tools
+
+[PPT很酷的网站：https://www.beautiful.ai/](https://www.beautiful.ai/)
+
 ## blog文章写作参考
 
 [RabbitMQ 使用参考](https://www.zouyesheng.com/rabbitmq.html)
