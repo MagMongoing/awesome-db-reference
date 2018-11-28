@@ -41,6 +41,9 @@
 
     [4 Useful Commandline Tools to Monitor MySQL Performance in Linux](https://www.tecmint.com/mysql-performance-monitoring/)
 
+- 专题
+    [SQL Joins Explained](http://www.sql-join.com/)
+
 ## 分布式系统
 
    [关于分布式事务、两阶段提交协议、三阶提交协议](http://www.hollischuang.com/archives/681)
@@ -72,6 +75,10 @@
 ## python
 
    [python tips](http://book.pythontips.com)
+
+## architecture
+
+   [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 ## other
 
