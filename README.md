@@ -104,6 +104,8 @@
 
 [https://salttiger.com/](https://salttiger.com/)
 
+[https://www.letmeread.net](https://www.letmeread.net)
+
 ## Tools
 
 [PPT很酷的网站：https://www.beautiful.ai/](https://www.beautiful.ai/)
