@@ -20,6 +20,10 @@
     [CENALULU'S TECH BLOG](http://cenalulu.github.io/)
     
     [Netflix tech blog](https://medium.com/netflix-techblog)
+
+    [http://code.openark.org/](http://code.openark.org/)
+
+    [https://fosdem.org/2020/schedule/event/mysql_github_schema/](https://fosdem.org/2020/schedule/event/mysql_github_schema/)
     
     [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html)(SRE)
     
